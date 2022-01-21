@@ -2,7 +2,7 @@
 Power BI Dashboard
 
 
-# Conditional Rules:
+### Conditional Rules:
 1) To promote employees who have never been promoted since 10 years. 
 2) People spending 18+ years in organization needs to be retrenched.
 3) Organization wants to know how many workers are very far ( > 20 miles), near (less than 20 greater than 10), very close.
@@ -11,7 +11,7 @@ Power BI Dashboard
 6) Make meaning out of Perfomance Rating column by creating a conditional column out of it (3:High Rating, 4:Low Rating)
  
 
-# Measures 
+### Measures 
 1) Total EMP
 2) Total Male / Female
 3) % Male / % Female 
@@ -23,7 +23,7 @@ Power BI Dashboard
 9) % High / % Low rating employees
 
 
-# Key Learning:
+### Key Learning:
 1) How to handle errors & balnk with IF(ISBLANK)
 
  
